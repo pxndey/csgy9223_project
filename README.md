@@ -5,7 +5,7 @@
 Contributers:
 
 - [Anushk Pandey](https://www.github.com/pxndey)  
-- [Yang Sherpa](https://www.linkedin.com/in/yang-sherpa/)
+- [Yang Sherpa](https://github.com/ysherpa26)
 
 Dataset Used:
 
